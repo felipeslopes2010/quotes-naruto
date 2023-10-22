@@ -46,38 +46,3 @@ body {
 .button:hover {
     background-color: #12520c;
 }
-
-/*
-.container {
-    display: flex;
-    justify-content: center;
-    background-color: green;
-    height: 100vh;
-    padding-top: 5rem;
-}
-
-.container-frase {
-    border: 2px solid #FFF;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 2rem;
-    height: 15vh;
-    gap: 1rem;
-}
-
-#frase {
-    color: #FFF;
-    font-size: 2rem;
-}
-
-#btn-gerar-citacao {
-    width: 20%;
-    color: #FFF;
-    font-size: 1rem;
-    border-radius: 5px;
-    background-color: #222;
-    padding: 0.5rem;
-}
-*/
