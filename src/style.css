@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #178d3e;
+    padding-top: 2rem;
+}
+
+.quote {
+    font-family: Helvetica;
+    font-size: 1.6rem;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border: 2px solid #FFF;
+    color: #FFF;
+    border-radius: 0.4rem;
+}
+
+.quote .text {
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+.quote .author {
+    font-weight: bold;
+    color: #133110;
+    margin-bottom: 2rem;
+}
+
+.button {
+    font-size: 1.4rem;
+    background-color: #0a2c07;
+    color: #FFF;
+    border: none;
+    border-radius: 5px;
+    padding: 0.8rem 1.2rem;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.button:hover {
+    background-color: #12520c;
+}
+
+/*
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    height: 100vh;
+    padding-top: 5rem;
+}
+
+.container-frase {
+    border: 2px solid #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    height: 15vh;
+    gap: 1rem;
+}
+
+#frase {
+    color: #FFF;
+    font-size: 2rem;
+}
+
+#btn-gerar-citacao {
+    width: 20%;
+    color: #FFF;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: #222;
+    padding: 0.5rem;
+}
+*/
